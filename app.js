@@ -87,3 +87,10 @@ function pintarBarra(id_barra, cantidad, indice, interval){
 window.onscroll = function(){
     efectoHabilidades();
 }
+
+// function descargarCV() {
+//   const link = document.createElement("a");
+//   link.href = "CV_Franco_Thobokholt.pdf";
+//   link.download = "CV_Franco_Thobokholt.pdf";
+//   link.click();
+// }

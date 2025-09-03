@@ -299,6 +299,21 @@ html{
     color: #940253;
 
 }
+
+.curriculum-pdf {
+    font-weight: 500 !important;
+    font-size: 20px;
+}
+.palabra-curriculum-pdf {
+    color:#bcbcbc;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.palabra-curriculum-pdf:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 /*seccion responsive*/
 @media screen and (max-width:800px){
     .habilidades .contenido-seccion .fila{
